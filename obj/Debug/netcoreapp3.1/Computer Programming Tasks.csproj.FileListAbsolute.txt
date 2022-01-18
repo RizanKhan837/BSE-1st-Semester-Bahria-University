@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Computer Programming Tasks\bin\Debug\netcoreapp3.1\Computer Programming Tasks.exe
+C:\Users\HP\source\repos\Computer Programming Tasks\bin\Debug\netcoreapp3.1\Computer Programming Tasks.deps.json
+C:\Users\HP\source\repos\Computer Programming Tasks\bin\Debug\netcoreapp3.1\Computer Programming Tasks.runtimeconfig.json
+C:\Users\HP\source\repos\Computer Programming Tasks\bin\Debug\netcoreapp3.1\Computer Programming Tasks.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Computer Programming Tasks\bin\Debug\netcoreapp3.1\Computer Programming Tasks.dll
+C:\Users\HP\source\repos\Computer Programming Tasks\bin\Debug\netcoreapp3.1\Computer Programming Tasks.pdb
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.AssemblyInfo.cs
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.dll
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.pdb
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.genruntimeconfig.cache
+C:\Users\HP\source\repos\Computer Programming Tasks\obj\Debug\netcoreapp3.1\Computer Programming Tasks.csproj.AssemblyReference.cache
